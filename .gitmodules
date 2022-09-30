@@ -1,0 +1,6 @@
+[submodule "VulkanProject/Libraries/glm"]
+	path = VulkanProject/Libraries/glm
+	url = https://github.com/g-truc/glm
+[submodule "VulkanProject/Libraries/GLFW"]
+	path = VulkanProject/Libraries/GLFW
+	url = https://github.com/glfw/glfw
